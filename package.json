@@ -1,0 +1,24 @@
+{
+  "name": "modulo-22-app-actions",
+  "version": "1.0.0",
+  "description": "Modulo 22 - Cypress App Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy.open": "npx cypress open",
+    "cy.run": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo-Tozatti/modulo-22-app-actions.git"
+  },
+  "author": "Rodrigo Tozatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigo-Tozatti/modulo-22-app-actions/issues"
+  },
+  "homepage": "https://github.com/Rodrigo-Tozatti/modulo-22-app-actions#readme",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
